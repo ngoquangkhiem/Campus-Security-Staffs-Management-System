@@ -1,0 +1,75 @@
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\Campus Security Staffs Management System.exe.config
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\Campus Security Staffs Management System.exe.manifest
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\Campus Security Staffs Management System.application
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\Campus Security Staffs Management System.exe
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\Campus Security Staffs Management System.pdb
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\BouncyCastle.Cryptography.dll
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\ClosedXML.dll
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\ClosedXML.Parser.dll
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\DocumentFormat.OpenXml.dll
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\ExcelNumberFormat.dll
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\Google.Protobuf.dll
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\K4os.Compression.LZ4.dll
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\K4os.Hash.xxHash.dll
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\MySql.Data.dll
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\RBush.dll
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\SixLabors.Fonts.dll
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\System.Buffers.dll
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\System.IO.Pipelines.dll
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\System.Memory.dll
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\System.Numerics.Vectors.dll
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\ZstdSharp.dll
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\BouncyCastle.Cryptography.xml
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\ClosedXML.pdb
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\ClosedXML.xml
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\ClosedXML.Parser.xml
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\DocumentFormat.OpenXml.xml
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\ExcelNumberFormat.xml
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\Google.Protobuf.pdb
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\Google.Protobuf.xml
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\K4os.Compression.LZ4.xml
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\K4os.Hash.xxHash.xml
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\MySql.Data.xml
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\RBush.xml
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\SixLabors.Fonts.xml
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\System.Buffers.xml
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\System.IO.Pipelines.xml
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\System.Memory.xml
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\System.Numerics.Vectors.xml
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\obj\Debug\Campus Security Staffs Management System.csproj.AssemblyReference.cache
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\obj\Debug\CampusSecuritySystem.Form1.resources
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\obj\Debug\Campus_Security_Staffs_Management_System.ManagerDashboard.resources
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\obj\Debug\Campus_Security_Staffs_Management_System.Properties.Resources.resources
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\obj\Debug\CampusSecurityApp.RegisterForm.resources
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\obj\Debug\SecurityManagementSystem.SecurityDashboard.resources
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\obj\Debug\Campus_Security_Staffs_Management_System.UC_AddUser.resources
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\obj\Debug\Campus_Security_Staffs_Management_System.UC_CreateRoutine.resources
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\obj\Debug\Campus_Security_Staffs_Management_System.UC_Delete.resources
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\obj\Debug\Campus_Security_Staffs_Management_System.UC_ManageUser.resources
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\obj\Debug\StaffSecuritySystem.UC_Monitor.resources
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\obj\Debug\Campus_Security_Staffs_Management_System.UC_Salary.resources
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\obj\Debug\Campus_Security_Staffs_Management_System.UC_Update.resources
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\obj\Debug\Campus_Security_Staffs_Management_System.UC_ViewRequests.resources
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\obj\Debug\Campus Security Staffs Management System.csproj.GenerateResource.cache
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\obj\Debug\Campus Security Staffs Management System.csproj.CoreCompileInputs.cache
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\obj\Debug\Campus Security Staffs Management System.exe.manifest
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\obj\Debug\Campus Security Staffs Management System.application
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\obj\Debug\Campus S.729539AE.Up2Date
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\obj\Debug\Campus Security Staffs Management System.exe
+D:\cse305\Campus Security Staffs Management System\Campus Security Staffs Management System\obj\Debug\Campus Security Staffs Management System.pdb
